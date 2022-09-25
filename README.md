@@ -9,6 +9,8 @@ https://home.hackathonbtg.com/
 
 ![](./squad-logo.png)
 
+![](./logo.png)
+
 ![](./team.jpg)
 
 ### Membros
