@@ -46,4 +46,6 @@ Serasa não foi coletada no projeto mas foi considerado seu dado (mock) no siste
 ![](./page04.png)
 ![](./page05.png)
 ![](./page06.png)
+![](./page07.png)
+![](./page08.png)
 
