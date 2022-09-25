@@ -26,3 +26,13 @@ Mentor: Rennan Gaio
 
 
 ## Solução
+
+![](./arquitetura.png)
+
+
+## ETL Dados OpenFinance
+
+![](./db_agro_insights.png)
+
+
+
