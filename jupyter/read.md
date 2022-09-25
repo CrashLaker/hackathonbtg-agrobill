@@ -1,0 +1,1 @@
+Este codíco é um plus do projeto onde a partir da exploração da base  conseguimos infeir correlção entre financiamentos e monvimentação do cliente.
