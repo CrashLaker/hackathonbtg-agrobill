@@ -38,6 +38,8 @@ Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
     * `dbuml.ipynb`: Criar estrutura UML para desenho https://dbdiagram.io/d
     * `postgre.ipynb`: Salvar tabela `agro_insights` no RDS postgresql
 * `wkdir-frontend`: VueJS Frontend da Solução
+* `jupyter`:
+    * `LSTM Multivariate`: Ciência de dados LSTM
 
 ## Arquitetura de Solução
 
