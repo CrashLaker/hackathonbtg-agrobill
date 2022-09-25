@@ -22,7 +22,7 @@
       Número de parcelas
     </h5>
     <p>
-      12x R$ 10,88
+      12x R$ 799.408,00
     </p>
 
     <h5>
