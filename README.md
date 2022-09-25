@@ -28,11 +28,11 @@ Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
 
 * `wkdir-jupyter`: Notebooks para pré exploração de dados dos dumps do OpenFinance
     * `agro_insights.ipyng`: Merge criação da tabela `agro_insights` à partir das "tabelas". Salva resultados em `sqlite` e `pkl`.:
-        `financings-contracts`
-        `financings-details`
-        `financings-warranties`
-        `financings-payments`
-        `financings-scheduled-instalments`
+        * `financings-contracts`
+        * `financings-details`
+        * `financings-warranties`
+        * `financings-payments`
+        * `financings-scheduled-instalments`
     * `dbuml.ipynb`: Criar estrutura UML para desenho https://dbdiagram.io/d
     * `postgre.ipynb`: Salvar tabela `agro_insights` no RDS postgresql
 * `wkdir-frontend`: VueJS Frontend da Solução
