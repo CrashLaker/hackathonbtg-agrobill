@@ -25,7 +25,7 @@ Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
     * https://www.linkedin.com/in/francisnardi/
 
 
-## Solução
+## Arquitetura de Solução
 
 ![](./arquitetura.png)
 
