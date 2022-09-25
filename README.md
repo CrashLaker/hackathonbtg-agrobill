@@ -40,6 +40,8 @@ Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
 * `wkdir-frontend`: VueJS Frontend da Solução
 * `jupyter`:
     * `LSTM Multivariate`: Ciência de dados LSTM
+* `backend`:
+    * `app.py`: Backend
 
 ## Arquitetura de Solução
 
