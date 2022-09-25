@@ -9,7 +9,7 @@ https://home.hackathonbtg.com/
 
 ![](./squad-logo.png)
 
-![](./logo.png)
+![](./logo2.png)
 
 ![](./team.jpg)
 
