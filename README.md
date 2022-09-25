@@ -24,6 +24,10 @@ Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
 * Francisco Nardi
     * https://www.linkedin.com/in/francisnardi/
 
+## Estrutura do Repositório
+
+* `wkdir-jupyter`: Notebooks para pré exploração de dados dos dumps do OpenFinance
+* `wkdir-frontend`: VueJS Frontend da Solução
 
 ## Arquitetura de Solução
 
