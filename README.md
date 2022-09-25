@@ -13,7 +13,7 @@ https://home.hackathonbtg.com/
 
 ### Membros
 
-Mentor: Rennan Gaio
+Mentor: Rennan Gaio (https://www.linkedin.com/in/rennangaio)
 
 * EiÁlex
     * https://www.linkedin.com/in/eialex/
