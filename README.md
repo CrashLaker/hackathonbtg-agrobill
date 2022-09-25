@@ -29,6 +29,8 @@ Mentor: Rennan Gaio
 
 ![](./arquitetura.png)
 
+RDS contém tabela `Agro_Insights` descrita abaixo.
+Serasa não foi coletada no projeto mas foi considerado seu dado (mock) no sistema.
 
 ## ETL Dados OpenFinance
 
